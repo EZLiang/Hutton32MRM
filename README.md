@@ -73,3 +73,9 @@ else it reverts to the ground state.<br />
 >5: A TS 'c', with an STS on its output, reverts to the ground state if any of 'c's input is 1.
 
 -- Tim Hutton
+
+## About
+Notes:
+1. Working out the register was definitely the hardest part
+
+More coming soon!
